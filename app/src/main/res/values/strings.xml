@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IEEE 802.3</string>
+    <string name="et_data_hint">input data (Ascii)</string>
+    <string name="clear">clear</string>
+    <string name="encap">encap</string>
+    <string name="frame_detail">Frame Detail</string>
+</resources>
